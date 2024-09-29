@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(80, 73, 73);
+}    
+
+#canva{
+    border: 10px solid rgb(235, 62, 9);
+    margin-top: 10vh;
+}
+.download{
+    background-color: rgb(7, 51, 7);
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    outline-color:black ;
+    font-size: 25px;
+   padding-left: 18px;
+   text-decoration: none;
+}
+.download:hover{
+    background-color: rgb(70, 9, 9);
+    color: black;
+    transform: scale(1.1);
+}
+h1{
+    background-color: rgb(7, 51, 7);
+    color: aliceblue;
+    display: block;
+    font-size: 50px;
+    align-items: center;
+}
+marquee{
+    background-color:rgb(7, 51, 7) ;
+    border-radius: 10px;
+   
+}
